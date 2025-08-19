@@ -1,0 +1,19 @@
+XYZ Import & Export Pte Ltd — About Us
+
+XYZ Import & Export Pte Ltd provides logistics software and trade services that help regional importers and exporters streamline cross-border operations and compliance. Founded to simplify international trade workflows, XYZ combines domain expertise with lightweight automation to deliver practical, reliable solutions.
+
+Core values:
+- Customer-first: prioritize partner outcomes and responsiveness.
+- Integrity: operate transparently and ethically.
+- Collaboration: coordinate across teams and partners to deliver value.
+- Continuous improvement: iterate on processes and measure impact.
+
+Primary offerings:
+- OceanLink Supply Chain Platform (shipment tracking, ETA predictions).
+- PortBridge Logistics Suite (port booking, manifest management).
+- TradeGuard Compliance API (automated tariff & regulatory checks).
+
+Contact and support:
+- Sales: sales@xyzimport.example
+- Support: support@xyzimport.example
+- Headquarters: Harborview Business Park, Jurong East, Singapore

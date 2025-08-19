@@ -1,0 +1,23 @@
+Sales policy (pricing, discounts, approvals)
+
+Purpose
+Define pricing, discount approvals, contract terms, and revenue-related rules for sales managers.
+
+Pricing & discounting
+- Standard list prices published internally for OceanLink and PortBridge.
+- Sales reps may approve up to 10% discount without escalation.
+- Discounts between 10% and 25% require Sales Manager approval with justification.
+- Discounts over 25% require approval from Director of Sales and Finance.
+
+Deal approvals & sign-off
+- Deals with custom terms, multi-year commitments over SGD 120,000 ARR, or revenue exceptions must go to Deal Desk review.
+- Submit deals using the internal deal form with required fields: deal value, ARR, proposed discount, company, and justification.
+- Legal reviews changes to standard terms; allow 48–72 business hours.
+
+Trial accounts and credits
+- Standard trial length: 30 days. Extensions require manager approval and documentation in CRM.
+- Promotional credits must be tracked and reconciled monthly.
+
+Commissions & reporting
+- Commissions calculated on net revenue after approved discounts and credits.
+- Finance must be consulted for complex revenue recognition.

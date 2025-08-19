@@ -1,0 +1,22 @@
+Sales FAQ — quick reference for managers
+
+Q: Who can approve discounts?
+A: Sales reps can approve up to 10%. 10–25% requires Sales Manager approval. >25% requires Director of Sales and Finance.
+
+Q: How do I submit a deal for Deal Desk review?
+A: Complete the deal submission form in the CRM with deal value, term, proposed discount, company name, and justification. Attach supporting documents.
+
+Q: What is the standard trial length?
+A: Standard trial is 30 days. Extensions require manager approval and CRM logging.
+
+Q: Where do I find standard pricing?
+A: Standard pricing is published in the internal pricing document and the pricing portal.
+
+Q: How are commissions calculated when credits are applied?
+A: Commissions are calculated on net recognized revenue after approved credits and discounts per Finance guidance.
+
+Q: Who handles contract exceptions?
+A: Contact Legal at legal@xyzimport.example; allow 48–72 hours for review.
+
+Q: Where are customer-facing policies stored?
+A: In the policy repository under /shared/policies/customer_policies/ (read-only for sales reps).

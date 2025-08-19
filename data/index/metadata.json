@@ -1,0 +1,86 @@
+[
+  {
+    "source": "about_us.txt",
+    "start": 0,
+    "end": 800,
+    "text": "XYZ Import & Export Pte Ltd — About Us\n\nXYZ Import & Export Pte Ltd provides logistics software and trade services that help regional importers and exporters streamline cross-border operations and compliance. Founded to simplify international trade workflows, XYZ combines domain expertise with lightweight automation to deliver practical, reliable solutions.\n\nCore values:\n- Customer-first: prioritize partner outcomes and responsiveness.\n- Integrity: operate transparently and ethically.\n- Collaboration: coordinate across teams and partners to deliver value.\n- Continuous improvement: iterate on processes and measure impact.\n\nPrimary offerings:\n- OceanLink Supply Chain Platform (shipment tracking, ETA predictions).\n- PortBridge Logistics Suite (port booking, manifest management).\n- TradeGuard"
+  },
+  {
+    "source": "about_us.txt",
+    "start": 600,
+    "end": 1400,
+    "text": "rocesses and measure impact.\n\nPrimary offerings:\n- OceanLink Supply Chain Platform (shipment tracking, ETA predictions).\n- PortBridge Logistics Suite (port booking, manifest management).\n- TradeGuard Compliance API (automated tariff & regulatory checks).\n\nContact and support:\n- Sales: sales@xyzimport.example\n- Support: support@xyzimport.example\n- Headquarters: Harborview Business Park, Jurong East, Singapore"
+  },
+  {
+    "source": "code_of_conduct.txt",
+    "start": 0,
+    "end": 800,
+    "text": "Employee code of conduct (summary)\n\nPrinciples\n- Respect and professionalism across internal and external interactions.\n- Maintain confidentiality of company and partner information.\n- Disclose conflicts of interest to HR or management.\n\nWorkplace behavior\n- Harassment, discrimination, or retaliation prohibited.\n- Encourage reporting of violations through anonymous and direct channels; reports investigated.\n\nIntellectual property & confidentiality\n- Company IP created during employment belongs to the company.\n- Follow data handling and confidentiality rules for partner and customer documents.\n\nEnforcement\n- Violations may result in disciplinary action up to termination.\n- HR coordinates investigations and corrective actions."
+  },
+  {
+    "source": "company_background.txt",
+    "start": 0,
+    "end": 800,
+    "text": "Company background and history\n\nXYZ Import & Export Pte Ltd was founded in 2014 by a team with backgrounds in shipping operations and software engineering who saw friction in cross-border trade processes. Starting with a shipment-tracking tool, the company expanded into compliance automation and logistics orchestration.\n\nMilestones:\n- 2015: First commercial deployments with regional freight forwarders.\n- 2017: Launch of PortBridge Logistics Suite.\n- 2019: Expanded to Southeast Asian markets; established customs compliance practice.\n- 2022: Released the TradeGuard Compliance API and partner integration program.\n\nOrganization:\n- Leadership from logistics, product, and engineering functions.\n- Headcount ~90 with teams across operations, product, engineering, and customer success.\n\nBusiness mo"
+  },
+  {
+    "source": "company_background.txt",
+    "start": 600,
+    "end": 1400,
+    "text": "egration program.\n\nOrganization:\n- Leadership from logistics, product, and engineering functions.\n- Headcount ~90 with teams across operations, product, engineering, and customer success.\n\nBusiness model:\n- Subscription SaaS with optional managed services and integration support.\n- Primary customers: freight forwarders, regional distributors, and import-export traders."
+  },
+  {
+    "source": "data_security.txt",
+    "start": 0,
+    "end": 800,
+    "text": "Data security policy (high level)\n\nObjective\nProtect company and partner data from unauthorized access, disclosure, alteration, and destruction.\n\nKey controls\n- Access control: least privilege for systems and sensitive data.\n- Authentication: strong passwords and mandatory 2FA for staff access.\n- Encryption: TLS for network traffic; encryption at rest for sensitive stores.\n- Backups: automated backups with restricted access and periodic restore tests.\n- Vulnerability management: scheduled patching and dependency scanning.\n- Incident response: documented plan with roles and notification procedures.\n\nDeveloper practices\n- Code reviews, dependency scanning, and secrets scanning in CI.\n- No hard-coded secrets; use secret management solutions.\n- Logging and monitoring to detect unusual activity"
+  },
+  {
+    "source": "data_security.txt",
+    "start": 600,
+    "end": 1400,
+    "text": "res.\n\nDeveloper practices\n- Code reviews, dependency scanning, and secrets scanning in CI.\n- No hard-coded secrets; use secret management solutions.\n- Logging and monitoring to detect unusual activity.\n\nThird-party vendors\n- Security assessments and contractual safeguards before onboarding processors.\n- Minimum security requirements included in vendor selection."
+  },
+  {
+    "source": "privacy_policy.txt",
+    "start": 0,
+    "end": 800,
+    "text": "Privacy policy (internal summary)\n\nPurpose\nThis document summarizes how XYZ Import & Export collects, uses, stores, and protects business and contact data related to partners, customers, and employees.\n\nData collection\n- We collect contact details (name, email, phone), company identifiers, shipment metadata, and usage logs necessary to deliver services.\n- We may process business documents (invoices, manifests) when required to provide logistics services.\n\nUse of data\n- Deliver and improve the OceanLink and PortBridge platforms, support operations, billing, and analytics.\n- Communicate with partners about service changes, incidents, and operational matters.\n- Comply with contractual and regulatory obligations.\n\nRetention & access\n- Data retained only for operational needs or to satisfy lega"
+  },
+  {
+    "source": "privacy_policy.txt",
+    "start": 600,
+    "end": 1400,
+    "text": "tners about service changes, incidents, and operational matters.\n- Comply with contractual and regulatory obligations.\n\nRetention & access\n- Data retained only for operational needs or to satisfy legal requirements.\n- Access is limited to authorized staff and systems based on job function.\n\nSecurity & third parties\n- Data is encrypted in transit; sensitive storage encrypted at rest where supported.\n- We use vetted third-party processors under contractual agreements.\n- We do not sell partner or customer data.\n\nUser rights\n- Customers and partners may request access, correction, or deletion as permitted by law. Requests are routed to Customer Success or Legal."
+  },
+  {
+    "source": "sales_faq.txt",
+    "start": 0,
+    "end": 800,
+    "text": "Sales FAQ — quick reference for managers\n\nQ: Who can approve discounts?\nA: Sales reps can approve up to 10%. 10–25% requires Sales Manager approval. >25% requires Director of Sales and Finance.\n\nQ: How do I submit a deal for Deal Desk review?\nA: Complete the deal submission form in the CRM with deal value, term, proposed discount, company name, and justification. Attach supporting documents.\n\nQ: What is the standard trial length?\nA: Standard trial is 30 days. Extensions require manager approval and CRM logging.\n\nQ: Where do I find standard pricing?\nA: Standard pricing is published in the internal pricing document and the pricing portal.\n\nQ: How are commissions calculated when credits are applied?\nA: Commissions are calculated on net recognized revenue after approved credits and discounts p"
+  },
+  {
+    "source": "sales_faq.txt",
+    "start": 600,
+    "end": 1400,
+    "text": "nal pricing document and the pricing portal.\n\nQ: How are commissions calculated when credits are applied?\nA: Commissions are calculated on net recognized revenue after approved credits and discounts per Finance guidance.\n\nQ: Who handles contract exceptions?\nA: Contact Legal at legal@xyzimport.example; allow 48–72 hours for review.\n\nQ: Where are customer-facing policies stored?\nA: In the policy repository under /shared/policies/customer_policies/ (read-only for sales reps)."
+  },
+  {
+    "source": "sales_policy.txt",
+    "start": 0,
+    "end": 800,
+    "text": "Sales policy (pricing, discounts, approvals)\n\nPurpose\nDefine pricing, discount approvals, contract terms, and revenue-related rules for sales managers.\n\nPricing & discounting\n- Standard list prices published internally for OceanLink and PortBridge.\n- Sales reps may approve up to 10% discount without escalation.\n- Discounts between 10% and 25% require Sales Manager approval with justification.\n- Discounts over 25% require approval from Director of Sales and Finance.\n\nDeal approvals & sign-off\n- Deals with custom terms, multi-year commitments over SGD 120,000 ARR, or revenue exceptions must go to Deal Desk review.\n- Submit deals using the internal deal form with required fields: deal value, ARR, proposed discount, company, and justification.\n- Legal reviews changes to standard terms; allow 4"
+  },
+  {
+    "source": "sales_policy.txt",
+    "start": 600,
+    "end": 1400,
+    "text": "o Deal Desk review.\n- Submit deals using the internal deal form with required fields: deal value, ARR, proposed discount, company, and justification.\n- Legal reviews changes to standard terms; allow 48–72 business hours.\n\nTrial accounts and credits\n- Standard trial length: 30 days. Extensions require manager approval and documentation in CRM.\n- Promotional credits must be tracked and reconciled monthly.\n\nCommissions & reporting\n- Commissions calculated on net revenue after approved discounts and credits.\n- Finance must be consulted for complex revenue recognition."
+  },
+  {
+    "source": "travel_expense.txt",
+    "start": 0,
+    "end": 800,
+    "text": "Travel and expense policy (summary)\n\nAllowed expenses\n- Reasonable travel (economy airfare), lodging, meals, and ground transport for company business.\n- Pre-approval required for trips estimated above SGD 1,500 (manager approval).\n\nSubmission & receipts\n- Expense reports require itemized receipts; submit within 30 days.\n- Use the company expense system and tag expenses to projects or customers.\n\nPer-diems & limits\n- Meal limits vary by city tier; alcohol reimbursed within meal limits with manager discretion.\n- No reimbursement for premium-class travel or luxury hotels without director approval.\n\nReimbursements & auditing\n- Finance conducts monthly audits of expense reports; fraudulent claims subject to disciplinary action.\n- Corporate card reconciliation expected weekly."
+  }
+]

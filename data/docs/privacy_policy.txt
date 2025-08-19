@@ -1,0 +1,25 @@
+Privacy policy (internal summary)
+
+Purpose
+This document summarizes how XYZ Import & Export collects, uses, stores, and protects business and contact data related to partners, customers, and employees.
+
+Data collection
+- We collect contact details (name, email, phone), company identifiers, shipment metadata, and usage logs necessary to deliver services.
+- We may process business documents (invoices, manifests) when required to provide logistics services.
+
+Use of data
+- Deliver and improve the OceanLink and PortBridge platforms, support operations, billing, and analytics.
+- Communicate with partners about service changes, incidents, and operational matters.
+- Comply with contractual and regulatory obligations.
+
+Retention & access
+- Data retained only for operational needs or to satisfy legal requirements.
+- Access is limited to authorized staff and systems based on job function.
+
+Security & third parties
+- Data is encrypted in transit; sensitive storage encrypted at rest where supported.
+- We use vetted third-party processors under contractual agreements.
+- We do not sell partner or customer data.
+
+User rights
+- Customers and partners may request access, correction, or deletion as permitted by law. Requests are routed to Customer Success or Legal.

@@ -1,0 +1,17 @@
+Company background and history
+
+XYZ Import & Export Pte Ltd was founded in 2014 by a team with backgrounds in shipping operations and software engineering who saw friction in cross-border trade processes. Starting with a shipment-tracking tool, the company expanded into compliance automation and logistics orchestration.
+
+Milestones:
+- 2015: First commercial deployments with regional freight forwarders.
+- 2017: Launch of PortBridge Logistics Suite.
+- 2019: Expanded to Southeast Asian markets; established customs compliance practice.
+- 2022: Released the TradeGuard Compliance API and partner integration program.
+
+Organization:
+- Leadership from logistics, product, and engineering functions.
+- Headcount ~90 with teams across operations, product, engineering, and customer success.
+
+Business model:
+- Subscription SaaS with optional managed services and integration support.
+- Primary customers: freight forwarders, regional distributors, and import-export traders.
